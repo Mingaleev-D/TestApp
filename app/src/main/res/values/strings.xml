@@ -1,0 +1,13 @@
+<resources>
+   <string name="app_name">TestApp</string>
+   <string name="pizza">Pizza</string>
+   <string name="combo">Сombo</string>
+   <string name="desserts">Desserts</string>
+   <string name="drinks">Drinks</string>
+   <string name="menu">Menu</string>
+   <string name="profile">Profile</string>
+   <string name="basket">Basket</string>
+   <string name="moscow">Moscow</string>
+   <string name="demo_price">demo price</string>
+   <string name="an_error_has_occurred_please_try_again">an error has occurred, please try again</string>
+</resources>

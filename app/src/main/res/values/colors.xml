@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="black">#FF222831</color>
+   <color name="white">#FFFFFFFF</color>
+   <color name="b1">#ffFD3A69</color>
+   <color name="b2">#ffEDCAD3</color>
+   <color name="gray">#ffC3C4C9</color>
+   <color name="chipText">#ffFD3A69</color>
+   <color name="bacgroundText">#ff222831</color>
+   <color name="onBacgroundText">#ffAAAAAD</color>
+</resources>
